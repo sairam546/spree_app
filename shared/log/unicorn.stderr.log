@@ -705,3 +705,53 @@ I, [2017-01-02T07:05:21.948861 #7960]  INFO -- : worker=0 ready
 I, [2017-01-02T07:05:21.949691 #7957]  INFO -- : master process ready
 I, [2017-01-02T07:05:21.954542 #7963]  INFO -- : worker=1 spawned pid=7963
 I, [2017-01-02T07:05:21.954705 #7963]  INFO -- : worker=1 ready
+I, [2017-01-02T11:47:35.130319 #26966]  INFO -- : Refreshing Gem list
+I, [2017-01-02T11:47:39.766561 #26966]  INFO -- : unlinking existing socket=/home/ubuntu/spree_app/shared/sockets/unicorn.sock
+I, [2017-01-02T11:47:39.767451 #26966]  INFO -- : listening on addr=/home/ubuntu/spree_app/shared/sockets/unicorn.sock fd=12
+I, [2017-01-02T11:47:39.767566 #26966]  INFO -- : worker=0 spawning...
+I, [2017-01-02T11:47:39.769768 #26966]  INFO -- : worker=1 spawning...
+I, [2017-01-02T11:47:39.770598 #26970]  INFO -- : worker=0 spawned pid=26970
+I, [2017-01-02T11:47:39.770764 #26970]  INFO -- : worker=0 ready
+I, [2017-01-02T11:47:39.772120 #26966]  INFO -- : master process ready
+I, [2017-01-02T11:47:39.778856 #26973]  INFO -- : worker=1 spawned pid=26973
+I, [2017-01-02T11:47:39.779031 #26973]  INFO -- : worker=1 ready
+I, [2017-01-02T12:14:25.068449 #27875]  INFO -- : Refreshing Gem list
+I, [2017-01-02T12:14:29.567494 #27875]  INFO -- : unlinking existing socket=/home/ubuntu/spree_app/shared/sockets/unicorn.sock
+I, [2017-01-02T12:14:29.567651 #27875]  INFO -- : listening on addr=/home/ubuntu/spree_app/shared/sockets/unicorn.sock fd=12
+I, [2017-01-02T12:14:29.567754 #27875]  INFO -- : worker=0 spawning...
+I, [2017-01-02T12:14:29.569923 #27875]  INFO -- : worker=1 spawning...
+I, [2017-01-02T12:14:29.570729 #27879]  INFO -- : worker=0 spawned pid=27879
+I, [2017-01-02T12:14:29.570872 #27879]  INFO -- : worker=0 ready
+I, [2017-01-02T12:14:29.572173 #27875]  INFO -- : master process ready
+I, [2017-01-02T12:14:29.578692 #27882]  INFO -- : worker=1 spawned pid=27882
+I, [2017-01-02T12:14:29.578820 #27882]  INFO -- : worker=1 ready
+I, [2017-01-02T13:34:55.019970 #28944]  INFO -- : Refreshing Gem list
+I, [2017-01-02T13:34:59.690679 #28944]  INFO -- : unlinking existing socket=/home/ubuntu/spree_app/shared/sockets/unicorn.sock
+I, [2017-01-02T13:34:59.691610 #28944]  INFO -- : listening on addr=/home/ubuntu/spree_app/shared/sockets/unicorn.sock fd=12
+I, [2017-01-02T13:34:59.691739 #28944]  INFO -- : worker=0 spawning...
+I, [2017-01-02T13:34:59.693805 #28944]  INFO -- : worker=1 spawning...
+I, [2017-01-02T13:34:59.694534 #28948]  INFO -- : worker=0 spawned pid=28948
+I, [2017-01-02T13:34:59.694690 #28948]  INFO -- : worker=0 ready
+I, [2017-01-02T13:34:59.695937 #28944]  INFO -- : master process ready
+I, [2017-01-02T13:34:59.702748 #28951]  INFO -- : worker=1 spawned pid=28951
+I, [2017-01-02T13:34:59.702897 #28951]  INFO -- : worker=1 ready
+I, [2017-01-03T07:00:10.560528 #1444]  INFO -- : Refreshing Gem list
+I, [2017-01-03T07:00:15.399666 #1444]  INFO -- : unlinking existing socket=/home/ubuntu/spree_app/shared/sockets/unicorn.sock
+I, [2017-01-03T07:00:15.401027 #1444]  INFO -- : listening on addr=/home/ubuntu/spree_app/shared/sockets/unicorn.sock fd=12
+I, [2017-01-03T07:00:15.401134 #1444]  INFO -- : worker=0 spawning...
+I, [2017-01-03T07:00:15.403177 #1444]  INFO -- : worker=1 spawning...
+I, [2017-01-03T07:00:15.403882 #1448]  INFO -- : worker=0 spawned pid=1448
+I, [2017-01-03T07:00:15.404026 #1448]  INFO -- : worker=0 ready
+I, [2017-01-03T07:00:15.405343 #1444]  INFO -- : master process ready
+I, [2017-01-03T07:00:15.410657 #1451]  INFO -- : worker=1 spawned pid=1451
+I, [2017-01-03T07:00:15.410851 #1451]  INFO -- : worker=1 ready
+I, [2017-01-03T07:07:31.549063 #1570]  INFO -- : Refreshing Gem list
+I, [2017-01-03T07:07:36.094233 #1570]  INFO -- : unlinking existing socket=/home/ubuntu/spree_app/shared/sockets/unicorn.sock
+I, [2017-01-03T07:07:36.095129 #1570]  INFO -- : listening on addr=/home/ubuntu/spree_app/shared/sockets/unicorn.sock fd=12
+I, [2017-01-03T07:07:36.095236 #1570]  INFO -- : worker=0 spawning...
+I, [2017-01-03T07:07:36.097272 #1570]  INFO -- : worker=1 spawning...
+I, [2017-01-03T07:07:36.098084 #1574]  INFO -- : worker=0 spawned pid=1574
+I, [2017-01-03T07:07:36.098219 #1574]  INFO -- : worker=0 ready
+I, [2017-01-03T07:07:36.099500 #1570]  INFO -- : master process ready
+I, [2017-01-03T07:07:36.106556 #1577]  INFO -- : worker=1 spawned pid=1577
+I, [2017-01-03T07:07:36.106740 #1577]  INFO -- : worker=1 ready
